@@ -9,14 +9,6 @@ Atualmente, tenho foco em compreender como a tecnologia pode ser aplicada para r
 Procuro oportunidades que me desafiem, permitam crescimento profissional e me possibilitem contribuir com projetos inovadores e de impacto.
 
 
-    
-    <a href="https://github.com/marlonsalesdev?tab=following">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub"         />
-    </a>
-</p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
